@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Script auxiliar usado apenas para gerar o PDF em outputs/
+gerar_relatorio.py
+
+# Enunciado da atividade
+Trabalho - Modelos de Machine Learning.pdf
